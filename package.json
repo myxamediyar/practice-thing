@@ -1,0 +1,19 @@
+{
+  "name": "practice-thing",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myxamediyar/practice-thing.git"
+  },
+  "author": "myxamediyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myxamediyar/practice-thing/issues"
+  },
+  "homepage": "https://github.com/myxamediyar/practice-thing#readme"
+}
